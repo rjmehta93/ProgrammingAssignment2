@@ -1,3 +1,10 @@
+PLEASE FIND THE LINK TO THE PUSHED PROGRAM BELOW :
+https://github.com/Rajmehta123/ProgrammingAssignment2/blob/master/cachematrix.R
+
+PLEASE FIND THE 40 CHARACTERS SHA-1 HASH BELOW :
+c1b566c614ccc98372719b7f4c71efac55cb345c
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
@@ -99,6 +106,12 @@ In order to complete this assignment, you must do the following:
     git branch to the GitHub repository under your account.
 5.  Submit to Coursera the URL to your GitHub repository that contains
     the completed R code for the assignment.
+        
+PLEASE FIND THE LINK TO THE PUSHED PROGRAM BELOW :
+https://github.com/Rajmehta123/ProgrammingAssignment2/blob/master/cachematrix.R
+
+PLEASE FIND THE 40 CHARACTERS SHA-1 HASH BELOW :
+c1b566c614ccc98372719b7f4c71efac55cb345c
 
 ### Grading
 
