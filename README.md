@@ -1,3 +1,7 @@
+### MAIN
+My second assignment and learning towards Data Science. Feeling great.
+
+
 PLEASE FIND THE LINK TO THE PUSHED PROGRAM BELOW :
 https://github.com/Rajmehta123/ProgrammingAssignment2/blob/master/cachematrix.R
 
@@ -112,7 +116,3 @@ https://github.com/Rajmehta123/ProgrammingAssignment2/blob/master/cachematrix.R
 
 PLEASE FIND THE 40 CHARACTERS SHA-1 HASH BELOW :
 c1b566c614ccc98372719b7f4c71efac55cb345c
-
-### Grading
-
-This assignment will be graded via peer assessment.
